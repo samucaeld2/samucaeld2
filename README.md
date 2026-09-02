@@ -1,10 +1,9 @@
 
 ### Olá!! Eu sou o Samuel Abreu Rodrigues 👋 
-Estudante do ensino médio/tecnico no Colegio Cotemig 
+Estudante de Ciências da Computação pela Universidade UNA e formado como Tecnico de TI pelo Colegio COTEMIG 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-abreu-rodrigues)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam_abreu0.1/)<br/>
-![Samuel Github stats](https://github-readme-stats.vercel.app/api?username=samucaeld2&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia
 
