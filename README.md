@@ -21,7 +21,7 @@ Estudante do ensino médio/tecnico no Colegio Cotemig
 </div>
 <br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da inovação.
 ## Contato:
 <p>(31) 98438-0499</p>
-<p>samucaeldroid0707@gmail.com</p>
+<p>samuel.a.rodrigues07@gmail.com</p>
